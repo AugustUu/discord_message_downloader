@@ -16,5 +16,14 @@
 </div>
 
 ## Images
+Example view of a server
+![Product Name Screen Shot][example_server]
+
+Example view of a Download
+![Product Name Screen Shot][example_download]
 
 ## Usage
+
+
+[example_server]: assets/example_server.png
+[example_download]: assets/example_download.png
