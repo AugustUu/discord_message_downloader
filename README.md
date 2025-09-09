@@ -30,5 +30,5 @@ Example view of a Download
 
 [example_server]: assets/example_server.png
 [example_download]: assets/example_download.png
-[releases]: /releases
+[releases]: https://github.com/AugustUu/discord_message_downloader/releases
 [token_guide]: https://gist.github.com/XielQs/90ab13b0c61c6888dae329199ea6aff3
