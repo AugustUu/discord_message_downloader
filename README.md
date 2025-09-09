@@ -28,7 +28,14 @@ Example view of a Download
 3. Paste the token in the app
 
 
+## Credit
+[serenity-self][serenity]: Discord Api
+
+[UnifontEX][UnifontExtended]: Font
+
 [example_server]: assets/example_server.png
 [example_download]: assets/example_download.png
 [releases]: https://github.com/AugustUu/discord_message_downloader/releases
 [token_guide]: https://gist.github.com/XielQs/90ab13b0c61c6888dae329199ea6aff3
+[serenity]: https://github.com/nshout/serenity-self
+[UnifontExtended]: https://github.com/stgiga/UnifontEX
