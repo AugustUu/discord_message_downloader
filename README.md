@@ -23,7 +23,12 @@ Example view of a Download
 ![Product Name Screen Shot][example_download]
 
 ## Usage
+1. Build from Source or download a release build [from here][releases]
+2. Follow [this guide][token_guide] to get your accouts token
+3. Paste the token in the app
 
 
 [example_server]: assets/example_server.png
 [example_download]: assets/example_download.png
+[releases]: /releases
+[token_guide]: https://gist.github.com/XielQs/90ab13b0c61c6888dae329199ea6aff3
